@@ -1,0 +1,13 @@
+<!-- border_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="12dp"/>
+    <stroke
+        android:width="3dp"
+        android:color="@color/maroon" /> <!-- Border color -->
+    <padding
+        android:left="8dp"
+        android:top="8dp"
+        android:right="8dp"
+        android:bottom="8dp" /> <!-- Padding inside the border -->
+</shape>
