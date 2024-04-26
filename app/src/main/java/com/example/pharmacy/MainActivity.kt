@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 //        val toolbar: Toolbar = findViewById(R.id.toolbar)
 //        setSupportActionBar(toolbar)
         supportActionBar?.setDisplayShowTitleEnabled(false) // Hide the default title
-
+///
         // Set the logo in the toolbar
 //        toolbar.setLogo(R.drawable.img) // Replace "your_logo" with the name of your logo drawable
 //        toolbar.contentDescription = getString(R.string.app_name) // Optional: Add content description
